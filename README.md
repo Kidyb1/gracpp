@@ -1,3 +1,7 @@
+kompilacja kod:
+g++ main.cpp Enemy.cpp -o game -lsfml-graphics -lsfml-window -lsfml-system
+
+
 projekt robiony w bibliotece sfml
 
 Data zakończenia: 2024-10-14 do 2024-10-28
