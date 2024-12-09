@@ -1,5 +1,5 @@
 kompilacja kod:
-g++ main.cpp EnemyWeak.cpp EnemyFast.cpp -o game -lsfml-graphics -lsfml-window -lsfml-system
+g++ project.cpp EnemyWeak.cpp EnemyFast.cpp -o game -lsfml-graphics -lsfml-window -lsfml-system
 
 
 
