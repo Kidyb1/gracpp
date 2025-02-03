@@ -1,0 +1,27 @@
+﻿  Vlvl_2.cpp
+C:\Users\piotr\OneDrive\Pulpit\niedziela\Vlvl_2\Vlvl_2\Vlvl_2.cpp(308,103): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\piotr\OneDrive\Pulpit\niedziela\Vlvl_2\Vlvl_2\Vlvl_2.cpp(308,103): warning C4244:         with
+C:\Users\piotr\OneDrive\Pulpit\niedziela\Vlvl_2\Vlvl_2\Vlvl_2.cpp(308,103): warning C4244:         [
+C:\Users\piotr\OneDrive\Pulpit\niedziela\Vlvl_2\Vlvl_2\Vlvl_2.cpp(308,103): warning C4244:             T=float
+C:\Users\piotr\OneDrive\Pulpit\niedziela\Vlvl_2\Vlvl_2\Vlvl_2.cpp(308,103): warning C4244:         ]
+C:\Users\piotr\OneDrive\Pulpit\niedziela\Vlvl_2\Vlvl_2\Vlvl_2.cpp(308,82): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\piotr\OneDrive\Pulpit\niedziela\Vlvl_2\Vlvl_2\Vlvl_2.cpp(308,82): warning C4244:         with
+C:\Users\piotr\OneDrive\Pulpit\niedziela\Vlvl_2\Vlvl_2\Vlvl_2.cpp(308,82): warning C4244:         [
+C:\Users\piotr\OneDrive\Pulpit\niedziela\Vlvl_2\Vlvl_2\Vlvl_2.cpp(308,82): warning C4244:             T=float
+C:\Users\piotr\OneDrive\Pulpit\niedziela\Vlvl_2\Vlvl_2\Vlvl_2.cpp(308,82): warning C4244:         ]
+C:\Users\piotr\OneDrive\Pulpit\niedziela\Vlvl_2\Vlvl_2\Vlvl_2.cpp(313,102): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\piotr\OneDrive\Pulpit\niedziela\Vlvl_2\Vlvl_2\Vlvl_2.cpp(313,102): warning C4244:         with
+C:\Users\piotr\OneDrive\Pulpit\niedziela\Vlvl_2\Vlvl_2\Vlvl_2.cpp(313,102): warning C4244:         [
+C:\Users\piotr\OneDrive\Pulpit\niedziela\Vlvl_2\Vlvl_2\Vlvl_2.cpp(313,102): warning C4244:             T=float
+C:\Users\piotr\OneDrive\Pulpit\niedziela\Vlvl_2\Vlvl_2\Vlvl_2.cpp(313,102): warning C4244:         ]
+C:\Users\piotr\OneDrive\Pulpit\niedziela\Vlvl_2\Vlvl_2\Vlvl_2.cpp(313,81): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+C:\Users\piotr\OneDrive\Pulpit\niedziela\Vlvl_2\Vlvl_2\Vlvl_2.cpp(313,81): warning C4244:         with
+C:\Users\piotr\OneDrive\Pulpit\niedziela\Vlvl_2\Vlvl_2\Vlvl_2.cpp(313,81): warning C4244:         [
+C:\Users\piotr\OneDrive\Pulpit\niedziela\Vlvl_2\Vlvl_2\Vlvl_2.cpp(313,81): warning C4244:             T=float
+C:\Users\piotr\OneDrive\Pulpit\niedziela\Vlvl_2\Vlvl_2\Vlvl_2.cpp(313,81): warning C4244:         ]
+  Trwa generowanie kodu
+  4 of 283 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Vlvl_2.vcxproj -> C:\Users\piotr\OneDrive\Pulpit\niedziela\Vlvl_2\x64\Release\Vlvl_2.exe
